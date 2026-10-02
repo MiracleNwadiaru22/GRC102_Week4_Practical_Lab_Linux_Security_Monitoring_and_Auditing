@@ -21,6 +21,5 @@ Linux log analysis identified system activity, warnings, errors, privilege-use e
 
 The Lynis assessment identified hardening opportunities, including firewall configuration, Fail2ban, GRUB protection, password controls, centralized logging, and file permissions. The FIRE-4512 firewall finding required validation against the actual firewall architecture before remediation.
 
-Governance & Assurance
-
+## Governance & Assurance
 The laboratory shows the flow from technical evidence → monitoring → investigation → GRC finding → remediation → retesting → closure. It highlights how security monitoring can provide evidence for control effectiveness, risk management, governance escalation, and continuous security assurance.
